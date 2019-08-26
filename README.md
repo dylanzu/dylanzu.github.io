@@ -1,4 +1,5 @@
 # dylanzu.github.io
-Custom Music for Mario Royale/Music Mod.
-Supports the cyuubi.gq domain, currently.
+Custom Music for Mario Royale/Music Mod for the game.
+# Mario Royale
+You can play Mario Royale here: 
 http://marioroyale.cyuubi.gq/
