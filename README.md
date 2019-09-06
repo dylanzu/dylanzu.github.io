@@ -3,7 +3,7 @@ Custom Music for Mario Royale/Music Mod for the game.
 # Mario Royale
 You can play Mario Royale here: 
 http://marioroyale.cyuubi.gq/
-- Custom Music for Characters will not happen. Character Unique Music is temporary!
+- Custom Character Music does not work.
 # Downloads
 First get Redirector: [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd?hl=en) 
 Mirror: [CRX File](https://cdn.discordapp.com/attachments/533030902326886404/618221503737102346/Redirector_v3.2.crx)
