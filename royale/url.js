@@ -34,4 +34,3 @@ var OBJ_ANIMATION = {};
     }
 })();
 print("loading url.js finished");
-print("music mod is active");
