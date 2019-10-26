@@ -1,5 +1,6 @@
 var LOBBY_MUSIC_URL = "https://dylanzu.github.io/royale/music/lobby.mp3";
 var MENU_MUSIC_URL = "https://dylanzu.github.io/royale/music/menu.mp3";
+var SKINCOUNT = 1;
 var SKIN_MUSIC_URL = {};
 var TILE_ANIMATION = {};
 var OBJ_ANIMATION = {};
@@ -33,3 +34,4 @@ var OBJ_ANIMATION = {};
     }
 })();
 print("loading url.js finished");
+print("music mod is active");
