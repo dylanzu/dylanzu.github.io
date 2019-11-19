@@ -1,2 +1,2 @@
 # dylanzu.github.io
-bruh
+:bruhsfx:
