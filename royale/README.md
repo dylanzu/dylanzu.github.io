@@ -1,6 +1,5 @@
 # Royale
-To use this mod, all you need is Redirector:
+To use this mod, Download Redirector:
 [(Chrome)](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd?hl=en) [(Firefox)](https://addons.mozilla.org/en-US/firefox/addon/redirector/)
-
-Install that, then [import this json file](https://cdn.discordapp.com/attachments/533030902326886404/637042106581647390/marioRoyaleV2.json)
+The mod itself is posted in the Mario Royale Discord. Latest updates are over there.
 - This mod doesn't change Menu and lobby music
