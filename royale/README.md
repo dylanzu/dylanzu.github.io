@@ -19,7 +19,7 @@ main6.mp3: SMB Mansion - Super Mario Maker 2 (not changed)
 mecha.mp3: that track from 3d world what was it called
 star.mp3: Star - Super Mario Kart
 steve.mp3: C418 - Sweden - Minecraft (8bit Remix)
-victory.mp3: Victory - SMB (not changed)
+victory.mp3: Credits - Spongebob Squarepants SuperSponge (Prototype)
 xexyzlevel.mp3: Overworld - Xexyz
 
 Super Mario World NES Remixes:
