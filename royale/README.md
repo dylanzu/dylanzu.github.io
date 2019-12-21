@@ -26,6 +26,6 @@ victory.mp3: Credits - Spongebob Squarepants SuperSponge (Prototype)
 xexyzlevel.mp3: Overworld - Xexyz
 smwathletic.mp3 (not changed)
 smwcastle.mp3 (not changed)
-smwoverworld.mp3: Overworld - SMW (Pirate) [(Silvagunner)](https://www.youtube.com/watch?v=--UzmE8FWys)
+smwoverworld.mp3: Overworld - SMW (Pirate) (Silvagunner)
 smwunderground.mp3 (not changed)
 ```
