@@ -3,7 +3,7 @@ Redirector is required. Recent Updates:
 ```
 12/21/19
 Changed some music and sfx, fixed URLs
-also updated README.md, the file you are seeing right now
+also updated README.md, the file you are looking at right now
 ```
 # Music
 ```
