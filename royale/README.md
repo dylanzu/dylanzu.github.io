@@ -1,6 +1,5 @@
 # Royale
-This mod requires Redirector for use!
-- This doesn't change Menu and lobby music.
+This mod requires Redirector.
 # Music
 Some mp3 files here are not listed because they are unused.
 ```
