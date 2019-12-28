@@ -1,9 +1,8 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-12/21/19
-Changed some music and sfx, fixed URLs
-also updated README.md, the file you are looking at right now
+12/27/19
+New main2.mp3 Song, main4.mp3 fixed
 ```
 # Music
 ```
