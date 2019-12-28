@@ -14,7 +14,7 @@ item.mp3: Power-up - NSMB DS
 level.mp3: Retro Level Clear - NSMB DS
 main0.mp3: Overworld - Sonic Jam 6 (Bootleg)
 main1.mp3: Underground Remix - SMB3
-main2.mp3 (not changed)
+main2.mp3 SMB3 Underwater - SMAS
 main3.mp3: Castle - Goonies
 main4.mp3: Snowball Salom - NSMB DS
 main5.mp3 (not changed)
