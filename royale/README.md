@@ -1,7 +1,8 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-12/27/19
+12/28/19
+Fixed URLs in the json
 New main2.mp3 Song, main4.mp3 fixed
 ```
 # Music
