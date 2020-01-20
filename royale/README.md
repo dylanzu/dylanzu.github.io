@@ -1,7 +1,7 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-12/28/19
+1/20/20
 New star.mp3
 main2.mp3 updated
 ```
