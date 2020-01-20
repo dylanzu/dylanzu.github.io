@@ -3,7 +3,7 @@ Redirector is required. Recent Updates:
 ```
 12/28/19
 New star.mp3
-main4.mp3 updated
+main2.mp3 updated
 ```
 This wont change worlds like Wingy's Run or SMB3 unless a default directory is used
 # Music
