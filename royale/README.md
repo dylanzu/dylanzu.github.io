@@ -2,9 +2,10 @@
 Redirector is required. Recent Updates:
 ```
 12/28/19
-Fixed URLs in the json
-New main2.mp3 Song, main4.mp3 fixed
+New star.mp3
+main4.mp3 updated
 ```
+This wont change worlds like Wingy's Run or SMB3 unless a default directory is used
 # Music
 ```
 castle.mp3: Fortress Clear - Super Mario World
@@ -21,7 +22,7 @@ main4.mp3: Snowball Salom - NSMB DS
 main5.mp3 (not changed)
 main6.mp3 (not changed)
 mecha.mp3: Something from 3d world
-star.mp3: Star - Super Mario Kart
+star.mp3: Star - Mario Kart DS
 steve.mp3 (not changed)
 victory.mp3: Credits - Spongebob Squarepants SuperSponge (Prototype)
 xexyzlevel.mp3: Overworld - Xexyz
