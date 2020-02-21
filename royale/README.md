@@ -1,9 +1,8 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-1/20/20
-Updated the json
-Restored old star.mp3, updated level.mp3
+2/20/20
+MP3 Sounds instead of wav since its not supported anymore
 ```
 This wont change worlds like Wingy's Run or SMB3 unless a default directory is used
 # Music
@@ -21,7 +20,6 @@ main3.mp3: Castle - Goonies
 main4.mp3: Snowball Salom - NSMB DS
 main5.mp3 (not changed)
 main6.mp3 (not changed)
-mecha.mp3: Something from 3d world
 star.mp3: Star - Super Mario Kart
 steve.mp3 (not changed)
 victory.mp3: Credits - Spongebob Squarepants SuperSponge (Prototype)
