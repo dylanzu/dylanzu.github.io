@@ -1,8 +1,8 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-2/20/20
-MP3 Sounds instead of wav since its not supported anymore
+3/26/20
+Music is now loud (enough)
 ```
 This wont change worlds like Wingy's Run or SMB3 unless a default directory is used
 # Music
@@ -23,7 +23,6 @@ main6.mp3 (not changed)
 star.mp3: Star - Super Mario Kart
 steve.mp3 (not changed)
 victory.mp3: Credits - Spongebob Squarepants SuperSponge (Prototype)
-xexyzlevel.mp3: Overworld - Xexyz
 smwathletic.mp3 (not changed)
 smwcastle.mp3 (not changed)
 smwoverworld.mp3: Overworld - SMW (Pirate) (Silvagunner)
