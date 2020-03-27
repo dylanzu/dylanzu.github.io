@@ -4,7 +4,7 @@ Redirector is required. Recent Updates:
 3/26/20
 Music is now loud (enough)
 ```
-This wont change worlds like Wingy's Run or SMB3 unless a default directory is used
+This mod only redirects worlds that use a default directory: /music/ and /sfx/
 # Music
 ```
 castle.mp3: Fortress Clear - Super Mario World
