@@ -1,8 +1,9 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-3/26/20
-Music is now loud (enough)
+4/9/20
+MR died a few days ago (rip) but GoNow has dmca royale running right now so yeah
+You can play it here: http://mroyale.me/royale/#
 ```
 This mod only redirects worlds that use a default directory: /music/ and /sfx/
 # Music
