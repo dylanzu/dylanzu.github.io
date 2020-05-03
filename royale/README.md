@@ -1,9 +1,8 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-4/9/20
-MR died a few days ago (rip) but GoNow has dmca royale running right now so yeah
-You can play it here: http://mroyale.me/royale/#
+5/3/20
+Upload the extra main mp3s. Also the game is back up under new management: mroyale.net
 ```
 This mod only redirects worlds that use a default directory: /music/ and /sfx/
 # Music
@@ -21,6 +20,10 @@ main3.mp3: Castle - Goonies
 main4.mp3: Snowball Salom - NSMB DS
 main5.mp3 (not changed)
 main6.mp3 (not changed)
+main7.mp3 (not changed)
+main8.mp3 (not changed)
+main9.mp3 (not chnaged)
+main10.mp3 (not changed)
 star.mp3: Star - Super Mario Kart
 steve.mp3 (not changed)
 victory.mp3: Credits - Spongebob Squarepants SuperSponge (Prototype)
