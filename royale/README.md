@@ -1,8 +1,8 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-5/3/20
-Upload the extra main mp3s. Also the game is back up under new management: mroyale.net
+5/15/20
+Updated castle song
 ```
 This mod only redirects worlds that use a default directory: /music/ and /sfx/
 # Music
@@ -16,7 +16,7 @@ level.mp3: Level Clear - Super Mario Bros. Deluxe
 main0.mp3: Overworld - Sonic Jam 6 (Bootleg)
 main1.mp3: Underground Remix - SMB3
 main2.mp3 SMB3 Underwater - SMAS
-main3.mp3: Castle - Goonies
+main3.mp3: Battle Stage 4 - Super Mario Advance 1
 main4.mp3: Snowball Salom - NSMB DS
 main5.mp3 (not changed)
 main6.mp3 (not changed)
