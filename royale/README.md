@@ -1,14 +1,14 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-5/15/20
-Updated castle song
+5/29/20
+New main5, updated dead, extra slide mp3
 ```
 This mod only redirects worlds that use a default directory: /music/ and /sfx/
 # Music
 ```
 castle.mp3: Fortress Clear - Super Mario World
-dead.mp3: Life Lost - NSMB DS
+dead.mp3: SM64DS Minigame over
 gameover.mp3: Game Over - NSMB DS
 hurry.mp3: Final Lap - Mario Kart DS
 item.mp3: Power-up - NSMB DS
@@ -18,7 +18,7 @@ main1.mp3: Underground Remix - SMB3
 main2.mp3 SMB3 Underwater - SMAS
 main3.mp3: Battle Stage 4 - Super Mario Advance 1
 main4.mp3: Snowball Salom - NSMB DS
-main5.mp3 (not changed)
+main5.mp3 SM64DS Lethal Lava Land
 main6.mp3 (not changed)
 main7.mp3 (not changed)
 main8.mp3 (not changed)
