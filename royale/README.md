@@ -1,8 +1,8 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-5/29/20
-New main5, updated dead, extra slide mp3
+8/21/20
+castlevania.mp3 added so the first song in XP World plays
 ```
 This mod only redirects worlds that use a default directory: /music/ and /sfx/
 # Music
