@@ -1,8 +1,10 @@
 # Royale
 Redirector is required. Recent Updates:
 ```
-8/21/20
-castlevania.mp3 added so the first song in XP World plays
+10/24/21
+Been a while since this was updated (last update: 8/21/20)
+Added: missing sounds for Mario Royale Legacy (swim, powerdown) missing fast and night mp3s
+Fast themes are only used when maintenance starts. (Mario Royale Legacy only, for now)
 ```
 This mod only redirects worlds that use a default directory: /music/ and /sfx/
 # Music
@@ -15,10 +17,10 @@ item.mp3: Power-up - NSMB DS
 level.mp3: Level Clear - Super Mario Bros. Deluxe
 main0.mp3: Overworld - Sonic Jam 6 (Bootleg)
 main1.mp3: Underground Remix - SMB3
-main2.mp3 SMB3 Underwater - SMAS
+main2.mp3: SMB3 Underwater - Super Mario All Stars
 main3.mp3: Battle Stage 4 - Super Mario Advance 1
 main4.mp3: Snowball Salom - NSMB DS
-main5.mp3 SM64DS Lethal Lava Land
+main5.mp3: SM64DS Lethal Lava Land
 main6.mp3 (not changed)
 main7.mp3 (not changed)
 main8.mp3 (not changed)
